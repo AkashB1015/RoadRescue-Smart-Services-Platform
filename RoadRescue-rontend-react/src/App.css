@@ -1,0 +1,136 @@
+/* App-specific styles if needed. Global styles are in index.css */
+.page-container {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+.content-wrap {
+  flex: 1;
+}
+
+
+/* navbar styles */
+
+.roadrescue-brand {
+  font-weight: 700;
+  font-size: 1.4rem;         
+  color: #0B5ED7;
+  letter-spacing: 0.3px;
+}
+
+
+.roadrescue-brand i {
+  font-size: 1.45rem;        
+  color: #0B5ED7;
+}
+
+
+.roadrescue-brand span {
+  color: #0A2540;
+}
+
+
+.roadrescue-brand:hover {
+  color: #0B5ED7;
+  text-decoration: none;
+}
+
+
+.main-navbar {
+  transition: all 0.3s ease;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.04);
+}
+
+
+.main-navbar .nav-link {
+  position: relative;
+  font-weight: 500;
+  color: #374151;
+  margin: 0 8px;
+  transition: color 0.3s ease;
+}
+
+
+.main-navbar .nav-link:hover {
+  color: #0B5ED7;
+} 
+
+ .main-navbar .nav-link::after {
+  content: "";
+  position: absolute;
+  left: 0;
+  bottom: -6px;
+  width: 0%;
+  height: 2.5px;
+  background: linear-gradient(135deg, #0B5ED7, #38BDF8);
+  border-radius: 10px;
+  transition: width 0.3s ease;
+} 
+
+
+.main-navbar .nav-link:hover::after {
+  width: 100%;
+}
+
+
+.main-navbar .nav-link.active {
+  color: #FF8C00;
+  font-weight: 600;
+}
+
+.main-navbar .nav-link.active::after {
+  width: 100%;
+  background: linear-gradient(135deg, #FF8C00, #FDBA74);
+}
+
+
+html {
+  scroll-behavior: smooth;
+}
+
+
+.main-navbar {
+  background: #ffffff;
+  border-bottom: 1px solid transparent;
+  transition: all 0.3s ease;
+}
+
+
+.main-navbar.navbar-scrolled {
+  border-bottom: 2px solid #0B5ED7;
+}
+
+.main-navbar {
+  border-bottom: 3px solid #206fe612;
+  
+}
+
+.main-navbar {
+  height: 72px;
+}
+
+
+@media (max-width: 991px) {
+  .main-navbar {
+    align-items: flex-start;
+  }
+
+  .main-navbar .navbar-collapse {
+    background: #ffffff;
+    padding: 16px 0;
+    margin-top: 8px;
+    border-radius: 0 0 12px 12px;
+    box-shadow: 0 12px 30px rgba(0, 0, 0, 0.12);
+  }
+
+  .main-navbar .nav-link {
+    height: auto;
+    padding: 10px 16px;
+  }
+
+  
+  .main-navbar .nav {
+    align-items: flex-start;
+  }
+}
