@@ -100,6 +100,23 @@ Vehicle owners often face unexpected roadside emergencies such as flat tyres, en
 <img width="1903" height="1059" alt="image" src="https://github.com/user-attachments/assets/aeb5e7ad-78b5-4508-bf83-7c664fecb669" />
 <img width="1906" height="431" alt="image" src="https://github.com/user-attachments/assets/e4ad345c-ded7-47b5-9c08-035d5bbdae22" />
 
+
+## 🚗 RoadRescue - 🔑 Forgot Password Using OTP 
+
+- Allows users to securely recover their account using registered email verification.  
+- Generates and sends a One-Time Password (OTP) to the user's email for identity validation.  
+- Verifies the entered OTP before allowing password reset to prevent unauthorized access.  
+- Enforces strong password validation and confirmation matching during reset process.  
+- Integrated with backend APIs (Spring Boot / .NET) for secure token generation, OTP validation, and password update handling.
+
+<img width="1904" height="997" alt="image" src="https://github.com/user-attachments/assets/76be3e49-c4e0-46f2-8bb3-5745ea921f4c" />
+<img width="1906" height="431" alt="image" src="https://github.com/user-attachments/assets/e4ad345c-ded7-47b5-9c08-035d5bbdae22" />
+<br>
+<img width="1906" height="1081" alt="image" src="https://github.com/user-attachments/assets/e7a346e8-c7ee-4b55-9529-ffa427dcd20d" />
+<img width="1906" height="431" alt="image" src="https://github.com/user-attachments/assets/e4ad345c-ded7-47b5-9c08-035d5bbdae22" />
+
+
+
 ---
 ## 🚗 RoadRescue - 🧑‍💻 User Service Booking Page
 
