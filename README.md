@@ -77,6 +77,19 @@ Vehicle owners often face unexpected roadside emergencies such as flat tyres, en
 <img width="1904" height="740" alt="image" src="https://github.com/user-attachments/assets/ae761055-6c84-479a-aaf5-c6930de04901" />
 <img width="1906" height="431" alt="image" src="https://github.com/user-attachments/assets/e4ad345c-ded7-47b5-9c08-035d5bbdae22" />
 
+---
+## 🚗 RoadRescue - 📝 Register Page
+
+- Allows users and service providers to create secure accounts by selecting their role during registration.  
+- Implements form validation using Formik to ensure proper input handling and error management.  
+- Includes validation for required fields such as Full Name, Email, Phone Number, Password, and Confirm Password.  
+- Ensures strong password rules and matching confirmation for secure authentication.  
+- Integrated with backend APIs (Spring Boot / .NET) for secure user registration and role-based access control.
+
+<img width="1862" height="1075" alt="image" src="https://github.com/user-attachments/assets/80efb0e2-6e2f-4aba-b23e-6305c9afe95d" />
+<img width="1906" height="431" alt="image" src="https://github.com/user-attachments/assets/e4ad345c-ded7-47b5-9c08-035d5bbdae22" />
+
+
 
 
 
