@@ -100,6 +100,17 @@ Vehicle owners often face unexpected roadside emergencies such as flat tyres, en
 <img width="1903" height="1059" alt="image" src="https://github.com/user-attachments/assets/aeb5e7ad-78b5-4508-bf83-7c664fecb669" />
 <img width="1906" height="431" alt="image" src="https://github.com/user-attachments/assets/e4ad345c-ded7-47b5-9c08-035d5bbdae22" />
 
+---
+## 🚗 RoadRescue - 🧑‍💻 User Service Booking Page
+
+- Accessible after user login, allowing authenticated users to select and book required roadside services.  
+- Displays selected service details dynamically (e.g., Flat Tyre Assistance) with scheduling options.  
+- Integrates location detection using Map API to fetch the user’s current location automatically.  
+- Includes required fields such as preferred schedule time, current location, and problem description.  
+- Connected with backend APIs (Spring Boot / .NET) to create and manage real-time service booking requests.
+
+<img width="1919" height="1088" alt="image" src="https://github.com/user-attachments/assets/81b52f2f-4472-4b70-9fc0-1384fd6040a2" />
+
 
 
 
