@@ -111,6 +111,17 @@ Vehicle owners often face unexpected roadside emergencies such as flat tyres, en
 
 <img width="1919" height="1088" alt="image" src="https://github.com/user-attachments/assets/81b52f2f-4472-4b70-9fc0-1384fd6040a2" />
 
+## 🚗 RoadRescue - 📜 User Service History & Tracking Page
+
+- Displays complete booking history including service type, location, scheduled time, and problem notes.  
+- Shows real-time service status updates such as Pending, Accepted, Resolved, and payment status (Paid / Unpaid).  
+- Enables users to track the progress once a service provider accepts and processes the request.  
+- Provides additional actions like viewing payment receipt and submitting service ratings/feedback.  
+- Integrated with backend APIs (Spring Boot / .NET) for dynamic status updates and secure transaction management.
+
+<img width="1919" height="1091" alt="image" src="https://github.com/user-attachments/assets/85f4a490-5045-4c11-9744-51ecedb283e0" />
+
+
 
 
 
