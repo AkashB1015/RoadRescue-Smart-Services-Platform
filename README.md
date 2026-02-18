@@ -42,6 +42,19 @@ Vehicle owners often face unexpected roadside emergencies such as flat tyres, en
 <img width="1900" height="839" alt="image" src="https://github.com/user-attachments/assets/328b51d3-a4d4-43ae-b598-12bebc756d47" />
 <img width="1906" height="431" alt="image" src="https://github.com/user-attachments/assets/e4ad345c-ded7-47b5-9c08-035d5bbdae22" />
 
+## RoadRescue - 👥 About Page
+
+- Introduces the mission, vision, and core objective of the RoadRescue platform.  
+- Highlights commitment to road safety, fast assistance, and 24/7 service availability.  
+- Displays company impact metrics such as assisted drivers, average arrival time, and cities covered.  
+- Builds user trust by showcasing reliability, transparency, and professional expertise.  
+- Designed using React.js and Bootstrap with responsive layout and clean UI presentation.
+- 
+<img width="1907" height="1077" alt="image" src="https://github.com/user-attachments/assets/6cee234b-d5c0-4e9a-9da5-a8207aabb30b" />
+<img width="1906" height="431" alt="image" src="https://github.com/user-attachments/assets/e4ad345c-ded7-47b5-9c08-035d5bbdae22" />
+
+
+
 
 
 
