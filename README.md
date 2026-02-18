@@ -1,3 +1,11 @@
+# 🚗 RoadRescue – Smart Services Platform
+
+RoadRescue is a full-stack vehicle service management system designed for emergency and scheduled roadside assistance.  
+It integrates modern web technologies to ensure scalability, security, and performance.  
+The platform provides real-time tracking, service management, and administrative control for seamless operations.
+
+---
+
 ## 📌 Problem Statement
 
 Vehicle owners often face unexpected roadside emergencies such as flat tyres, engine breakdowns, battery failures, fuel shortages, EV charging issues, or lockout situations.  
@@ -25,8 +33,3 @@ An Admin panel manages users, service providers, pricing, and overall system ope
 
 ---
 
-# 🚗 RoadRescue – Smart Services Platform
-
-RoadRescue is a full-stack vehicle service management system designed for emergency and scheduled roadside assistance.  
-It integrates modern web technologies to ensure scalability, security, and performance.  
-The platform provides real-time tracking, service management, and administrative control for seamless operations.
