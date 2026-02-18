@@ -29,3 +29,21 @@ Vehicle owners often face unexpected roadside emergencies such as flat tyres, en
 
 ---
 
+##  RoadRescue - 🏠 Home Page
+
+- Provides a clear and impactful introduction to the RoadRescue emergency assistance platform.  
+- Highlights key services such as Flat Tyre Assistance, Engine Breakdown, EV Support, and 24/7 Emergency Help.  
+- Enables users to quickly book a service or request immediate emergency support.  
+- Designed using React.js and Bootstrap to ensure responsive layout and smooth performance.  
+- Focused on intuitive navigation, modern UI design, and seamless user experience.
+
+<img width="1907" height="978" alt="image" src="https://github.com/user-attachments/assets/6dbfbaf3-3d5d-4a22-b2b9-acb93f62ddfc" />
+<img width="1901" height="653" alt="image" src="https://github.com/user-attachments/assets/c82136a8-00e2-48f2-b668-bcfca1cc59d3" />
+<img width="1900" height="839" alt="image" src="https://github.com/user-attachments/assets/328b51d3-a4d4-43ae-b598-12bebc756d47" />
+<img width="1906" height="431" alt="image" src="https://github.com/user-attachments/assets/e4ad345c-ded7-47b5-9c08-035d5bbdae22" />
+
+
+
+
+
+
