@@ -139,6 +139,37 @@ Vehicle owners often face unexpected roadside emergencies such as flat tyres, en
 <img width="1919" height="1091" alt="image" src="https://github.com/user-attachments/assets/85f4a490-5045-4c11-9744-51ecedb283e0" />
 
 
+## 🚗 RoadRescue - 🛠 Service Provider Dashboard
+
+- Displays all available service requests assigned to the service provider for acceptance.  
+- Shows job details including Service Type, Location (with Map integration), and current request status.  
+- Allows service providers to Accept requests, changing status from Pending to On-Work.  
+- Tracks total earnings and completed jobs through integrated payment history section.  
+- Connected with backend APIs (Spring Boot / .NET) to update job status in real-time and notify users instantly.
+
+<img width="1903" height="888" alt="image" src="https://github.com/user-attachments/assets/6ad33f1f-a51a-49a3-bafd-6bbb63ff571f" />
+<img width="1906" height="431" alt="image" src="https://github.com/user-attachments/assets/e4ad345c-ded7-47b5-9c08-035d5bbdae22" />
+
+<hr>
+## 🚗 RoadRescue - 📄 Service Provider Job Details
+
+- Displays complete job details after the service provider accepts the request.  
+- Shows service type, customer location with map navigation option, and current job status.  
+- Provides customer contact information and problem notes to prepare before service execution.
+
+<img width="1905" height="1088" alt="image" src="https://github.com/user-attachments/assets/2dd9fc20-b6da-46d0-b006-158eeba51f1a" />
+<img width="1906" height="431" alt="image" src="https://github.com/user-attachments/assets/e4ad345c-ded7-47b5-9c08-035d5bbdae22" />
+
+<hr>
+## 🚗 RoadRescue - 🧰 My Accepted Services Page
+
+- Displays all services accepted by the service provider, including active and completed jobs.  
+- Shows job details such as service type, location with map access, date, status, payment, and rating.  
+- Enables tracking of current active jobs and viewing completed service receipts and details.
+  
+<img width="1898" height="1087" alt="image" src="https://github.com/user-attachments/assets/a15df64e-50ef-40c8-a373-1bbeaa96d77a" />
+<img width="1906" height="431" alt="image" src="https://github.com/user-attachments/assets/e4ad345c-ded7-47b5-9c08-035d5bbdae22" />
+
 
 
 
