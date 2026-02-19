@@ -158,7 +158,7 @@ Vehicle owners often face unexpected roadside emergencies such as flat tyres, en
 - Provides customer contact information and problem notes to prepare before service execution.
 
 <img width="1905" height="1088" alt="image" src="https://github.com/user-attachments/assets/2dd9fc20-b6da-46d0-b006-158eeba51f1a" />
-<img width="1906" height="431" alt="image" src="https://github.com/user-attachments/assets/e4ad345c-ded7-47b5-9c08-035d5bbdae22" />
+
 
 <hr>
 ## 🚗 RoadRescue - 🧰 My Accepted Services Page
