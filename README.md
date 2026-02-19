@@ -210,7 +210,7 @@ Vehicle owners often face unexpected roadside emergencies such as flat tyres, en
 - The module ensures secure platform governance, operational transparency, and overall system management.
 
 <img width="1919" height="1086" alt="image" src="https://github.com/user-attachments/assets/9fde7b6e-3558-44e4-a88a-a4bd86ad8231" />
-<img width="1919" height="1090" alt="image" src="https://github.com/user-attachments/assets/bff0fd12-194d-4676-95ec-d4f79bf7a1a8" />
+<img width="1906" height="431" alt="image" src="https://github.com/user-attachments/assets/e4ad345c-ded7-47b5-9c08-035d5bbdae22" />
 
 ## 🚗 RoadRescue - 🛠️ Admin Service Management (CRUD)
 
@@ -221,7 +221,7 @@ Vehicle owners often face unexpected roadside emergencies such as flat tyres, en
 - This module allows centralized control over pricing strategy and platform service offerings.
 
 <img width="1902" height="1087" alt="image" src="https://github.com/user-attachments/assets/c78b0f7f-345d-40ad-a548-5d53a00a1ce7" />
-<img width="1919" height="1090" alt="image" src="https://github.com/user-attachments/assets/bff0fd12-194d-4676-95ec-d4f79bf7a1a8" />
+<img width="1906" height="431" alt="image" src="https://github.com/user-attachments/assets/e4ad345c-ded7-47b5-9c08-035d5bbdae22" />
 
 ## 🚗 RoadRescue - 💰 Provider Earnings (Admin View)
 
@@ -230,5 +230,5 @@ Vehicle owners often face unexpected roadside emergencies such as flat tyres, en
 - This module helps the admin track performance, payouts, and overall platform revenue distribution.
 
 <img width="1906" height="872" alt="image" src="https://github.com/user-attachments/assets/ae7818df-ed71-4d3b-9533-8e8fafb5d02e" />
-<img width="1919" height="1090" alt="image" src="https://github.com/user-attachments/assets/bff0fd12-194d-4676-95ec-d4f79bf7a1a8" />
+<img width="1906" height="431" alt="image" src="https://github.com/user-attachments/assets/e4ad345c-ded7-47b5-9c08-035d5bbdae22" />
 
