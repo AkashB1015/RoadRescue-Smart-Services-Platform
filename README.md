@@ -193,5 +193,14 @@ Vehicle owners often face unexpected roadside emergencies such as flat tyres, en
 <img width="1918" height="1087" alt="image" src="https://github.com/user-attachments/assets/c0588ee4-844f-415a-bdc1-d5b57058067f" />
 <img width="1919" height="1090" alt="image" src="https://github.com/user-attachments/assets/bff0fd12-194d-4676-95ec-d4f79bf7a1a8" />
 
+## 🚗 RoadRescue - 🧾 Payment Receipt & Feedback
+
+- After successful payment, a **Payment Receipt** modal is displayed with transaction details including Payment ID, service name, amount paid, and date.  
+- The user can **print the receipt** or close the modal for future reference from the dashboard.  
+- The payment status is automatically updated to **PAID** in the request history.  
+- Once payment is completed, the **Rate & Feedback** option becomes available to the user.  
+- This ensures proper billing transparency and service quality evaluation through user reviews.
+
+<img width="1919" height="1086" alt="image" src="https://github.com/user-attachments/assets/9fde7b6e-3558-44e4-a88a-a4bd86ad8231" />
 
 
