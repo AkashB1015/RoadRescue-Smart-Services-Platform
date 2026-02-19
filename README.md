@@ -210,7 +210,7 @@ Vehicle owners often face unexpected roadside emergencies such as flat tyres, en
 - The module ensures secure platform governance, operational transparency, and overall system management.
 
 <img width="1919" height="1086" alt="image" src="https://github.com/user-attachments/assets/9fde7b6e-3558-44e4-a88a-a4bd86ad8231" />
-<img width="1906" height="431" alt="image" src="https://github.com/user-attachments/assets/e4ad345c-ded7-47b5-9c08-035d5bbdae22" />
+
 
 ## 🚗 RoadRescue - 🛠️ Admin Service Management (CRUD)
 
