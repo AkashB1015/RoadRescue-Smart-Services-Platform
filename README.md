@@ -232,3 +232,55 @@ Vehicle owners often face unexpected roadside emergencies such as flat tyres, en
 <img width="1906" height="872" alt="image" src="https://github.com/user-attachments/assets/ae7818df-ed71-4d3b-9533-8e8fafb5d02e" />
 <img width="1906" height="431" alt="image" src="https://github.com/user-attachments/assets/e4ad345c-ded7-47b5-9c08-035d5bbdae22" />
 
+---
+
+# 🚗 RoadRescue – Detailed End-to-End Project Flow (Using "-")
+
+- The system supports three primary roles: **Admin, Service Provider, and User** with Role-Based Access Control (RBAC).  
+- User registration is implemented with server-side validation and password encryption (BCrypt in Spring Boot / Identity hashing in .NET).  
+- Authentication is handled using **JWT (JSON Web Token)** for secure and stateless session management.  
+- On successful login, the backend (Spring Boot / ASP.NET Core) generates a signed JWT containing user claims and role information.  
+- The React frontend stores the JWT and sends it in the Authorization header for protected API access.  
+- Backend security middleware (Spring Security / .NET Authentication Middleware) validates the token on each request.  
+- Role-based API authorization restricts access using annotations or policy-based authorization.  
+
+- The User dashboard fetches and displays all available roadside services dynamically from the backend.  
+- Services and pricing are managed by Admin and retrieved via REST APIs.  
+- User selects a service and opens the booking modal form.  
+- Current location is captured using **Google Maps API / Geolocation API** (auto-detect or manual input).  
+- User submits schedule time and problem description to create a service request.  
+- Backend stores the request in the database with initial status as **Pending**.  
+
+- Service Provider dashboard displays all available nearby requests.  
+- Provider accepts a request and the system updates status to **Assigned**.  
+- Status updates are reflected to the user dashboard via API refresh or real-time updates.  
+- Provider views job details including client contact, notes, and mapped location.  
+- Service lifecycle progresses: Assigned → On Work → Resolved.  
+
+- After service completion, provider clicks **Mark as Resolved**.  
+- Backend updates the service status and enables payment option for the user.  
+- If payment status is UNPAID, the **Pay Now** button becomes active.  
+
+- Razorpay Checkout API is integrated for secure payment processing.  
+- Backend generates a secure order ID before initiating the payment transaction.  
+- Payment signature verification ensures transaction authenticity.  
+- On successful payment, status updates automatically to **PAID** in the database.  
+- System generates a digital receipt with transaction ID, service details, and amount.  
+
+- User can submit rating and feedback after successful payment.  
+- Admin dashboard provides full **CRUD operations** for Users, Providers, Services, and Requests.  
+- Admin can add, update, delete services, manage pricing, monitor earnings, and control platform roles.  
+- The architecture ensures scalability, modularity, secure authentication, and full-stack integration using React + Spring Boot / ASP.NET Core.
+  
+---
+  ## 🏗️ Technology Stack
+
+- **Frontend:** React.js + Bootstrap  
+- **Backend Option 1:** Spring Boot (J2EE) + Spring Security + JWT  
+- **Backend Option 2:** ASP.NET Core Web API + Identity + JWT  
+- **Database:** MySQL / SQL Server  
+- **Security:** JWT Authentication + RBAC + Password Hashing  
+- **Payment Gateway:** Razorpay API  
+- **Maps & Location:** Google Maps API 
+
+---
