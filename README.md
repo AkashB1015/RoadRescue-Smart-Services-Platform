@@ -182,6 +182,16 @@ Vehicle owners often face unexpected roadside emergencies such as flat tyres, en
 <img width="1902" height="1087" alt="image" src="https://github.com/user-attachments/assets/d999fcd9-d06b-4dad-b553-b18a0b3cb050" />
 <img width="1906" height="431" alt="image" src="https://github.com/user-attachments/assets/e4ad345c-ded7-47b5-9c08-035d5bbdae22" />
 
+## 🚗 RoadRescue - 💳 User Payment Integration (Razorpay)
+
+- When a service is marked as **Resolved** and payment is pending, the user dashboard displays the **Pay Now** option.  
+- On clicking **Pay Now**, the integrated Razorpay payment gateway modal opens securely with the service price summary.  
+- Users can complete the transaction using Card, Netbanking, Wallet, or UPI through Razorpay.  
+- After successful payment, the status updates to **PAID** automatically in the system.  
+- Once payment is confirmed, the user can download the receipt and submit feedback or rating.
+
+<img width="1918" height="1087" alt="image" src="https://github.com/user-attachments/assets/c0588ee4-844f-415a-bdc1-d5b57058067f" />
+<img width="1919" height="1090" alt="image" src="https://github.com/user-attachments/assets/bff0fd12-194d-4676-95ec-d4f79bf7a1a8" />
 
 
 
