@@ -171,8 +171,16 @@ Vehicle owners often face unexpected roadside emergencies such as flat tyres, en
 <img width="1906" height="431" alt="image" src="https://github.com/user-attachments/assets/e4ad345c-ded7-47b5-9c08-035d5bbdae22" />
 
 
+## 🚗 RoadRescue - ✅ Service Completion & Payment Workflow
 
+- After completing the job, the service provider marks the request as **Resolved**, updating the service status in the system.  
+- The updated status is reflected instantly on the User Dashboard through real-time backend synchronization.  
+- Once marked as resolved, the user is prompted to complete the pending payment securely.  
+- After successful payment, the system enables the feedback and rating submission option.  
+- This workflow ensures a complete service lifecycle: Assigned → On Work → Resolved → Payment → Feedback.
 
+<img width="1902" height="1087" alt="image" src="https://github.com/user-attachments/assets/d999fcd9-d06b-4dad-b553-b18a0b3cb050" />
+<img width="1906" height="431" alt="image" src="https://github.com/user-attachments/assets/e4ad345c-ded7-47b5-9c08-035d5bbdae22" />
 
 
 
