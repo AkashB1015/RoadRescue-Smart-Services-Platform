@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=40&center=true&vCenter=true&width=950&height=80&duration=3500&color=1E90FF&lines=RoadRescue+-+Smart+Roadside+Assistance+Platform;Full+Stack+React+%2B+Spring+Boot+%2F+ASP.NET+Core;Secure+JWT+Authentication+%26+RBAC;Real-Time+Service+Booking+%26+Tracking;Integrated+Razorpay+Payment+Gateway" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Segoe+UI&size=38&center=true&vCenter=true&width=950&height=80&duration=5000&color=0A66C2&lines=RoadRescue+-+Smart+Roadside+Assistance+Platform;Full+Stack+React+%2B+Spring+Boot+%2F+ASP.NET+Core;Secure+JWT+Authentication+%26+Role-Based+Access+Control;Real-Time+Service+Booking+%26+Tracking;Integrated+Razorpay+Payment+Gateway" />
 </h1>
 ---
 # 🚗 RoadRescue – Smart Services Platform
