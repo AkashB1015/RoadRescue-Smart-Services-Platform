@@ -1,7 +1,8 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Montserrat&weight=700&size=36&center=true&vCenter=true&width=1000&height=85&duration=4500&pause=2000&backDelay=2000&color=005F9E&lines=RoadRescue+-+Smart+Roadside+Assistance+Platform;Full+Stack+React+%7C+Spring+Boot+%7C+ASP.NET+Core;Secure+JWT+Authentication+%26+Role-Based+Access;Real-Time+Service+Booking+%26+Tracking;Integrated+Razorpay+Payment+Gateway" />
+  <hr>
 </h1>
-<hr>
+
 #  RoadRescue – Smart Services Platform
 
 RoadRescue is a full-stack vehicle service management system designed for emergency and scheduled roadside assistance. It integrates modern web technologies to ensure scalability, security, and performance. The platform provides real-time tracking, service management, and administrative control for seamless operations.
